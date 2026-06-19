@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/logo.png" width="90"/>
   
-  # 정직
+  # Campus Life
 </div>
 ---
 
